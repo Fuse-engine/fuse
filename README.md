@@ -248,11 +248,7 @@ $ ./repaly.sh
 $ cat res_all.txt
 
 ...... 
-gsl_sf_poch_e,0 ,0 ,
-gsl_sf_pochrel_e,0 ,0 ,
 gsl_sf_gegenpoly_array ,92.85714285714286 , 15,10
-gsl_sf_hermite_deriv_e,0 ,0 ,
-gsl_sf_hermite_func_array,0 ,0 ,
 ......
 ```
 
